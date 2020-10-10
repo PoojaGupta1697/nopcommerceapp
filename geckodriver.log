@@ -1,0 +1,59 @@
+1601962954673	geckodriver	INFO	Listening on 127.0.0.1:64315
+1601962957933	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CC\\AppData\\Local\\Temp\\rust_mozprofileahHZhy"
+JavaScript error: cxnijzsyg0f.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1601963004448	Marionette	INFO	Listening on port 64323
+1601963004643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601963014218	Marionette	INFO	Stopped listening on port 64323
+[Parent 16040, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601963017140	geckodriver	INFO	Listening on 127.0.0.1:64385
+1601963020227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CC\\AppData\\Local\\Temp\\rust_mozprofileTLV5tw"
+JavaScript error: cxnijzsyg0f.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601963024841	Marionette	INFO	Listening on port 64393
+1601963025072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601963041073	Marionette	INFO	Stopped listening on port 64393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601963268390	geckodriver	INFO	Listening on 127.0.0.1:64437
+1601963271545	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CC\\AppData\\Local\\Temp\\rust_mozprofilexdsb0O"
+JavaScript error: cxnijzsyg0f.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601963275190	Marionette	INFO	Listening on port 64445
+1601963275226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601963279919	Marionette	INFO	Stopped listening on port 64445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601963281443	geckodriver	INFO	Listening on 127.0.0.1:64472
+1601963284529	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CC\\AppData\\Local\\Temp\\rust_mozprofilelEB61A"
+JavaScript error: cxnijzsyg0f.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601963287419	Marionette	INFO	Listening on port 64480
+1601963287701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601963299670	Marionette	INFO	Stopped listening on port 64480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
